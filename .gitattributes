@@ -1,3 +1,4 @@
+stats/dashboards.pdf filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.epub filter=lfs diff=lfs merge=lfs -text
 *.mobi filter=lfs diff=lfs merge=lfs -text
