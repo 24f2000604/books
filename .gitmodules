@@ -1,0 +1,4 @@
+[submodule "CS/rust-book"]
+	path = CS/rust-book
+	url = https://github.com/cognitive-engineering-lab/rust-book
+	shallow = true
